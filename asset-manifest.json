@@ -1,16 +1,18 @@
 {
   "files": {
     "main.css": "/monvaly/static/css/main.56e6221f.css",
-    "main.js": "/monvaly/static/js/main.a1cfd98b.js",
+    "main.js": "/monvaly/static/js/main.8e06cb47.js",
     "static/js/787.6804e906.chunk.js": "/monvaly/static/js/787.6804e906.chunk.js",
-    "static/media/cat1.png": "/monvaly/static/media/cat1.63d2b6bd111ab744dc34.png",
+    "static/media/sunGlass.png": "/monvaly/static/media/sunGlass.7e5b3104ee1343b76b1f.png",
+    "static/media/jack2.png": "/monvaly/static/media/jack2.cde820f2f1bbf48675a2.png",
+    "static/media/apple.png": "/monvaly/static/media/apple.63d2b6bd111ab744dc34.png",
     "index.html": "/monvaly/index.html",
     "main.56e6221f.css.map": "/monvaly/static/css/main.56e6221f.css.map",
-    "main.a1cfd98b.js.map": "/monvaly/static/js/main.a1cfd98b.js.map",
+    "main.8e06cb47.js.map": "/monvaly/static/js/main.8e06cb47.js.map",
     "787.6804e906.chunk.js.map": "/monvaly/static/js/787.6804e906.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56e6221f.css",
-    "static/js/main.a1cfd98b.js"
+    "static/js/main.8e06cb47.js"
   ]
 }
