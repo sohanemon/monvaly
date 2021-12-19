@@ -4,12 +4,15 @@ import SliderPhoto from "./SliderPhoto";
 // import shoes from "../../../assets/shoes_img/shoes (1).img";
 
 class Slider1 extends Component {
+  componentDidMount() {
+    document.body.style.backgroundColor = "#FEE3EC";
+  }
   details =
     "animi possimus voluptates accusamus minus debitis, eius blanditiis!";
   render() {
     return (
       <Container className="rounded" style={{ backgroundColor: "#FF9999" }}>
-        <Carousel>
+        <Carousel interval={4000}>
           <Carousel.Item>
             <SliderPhoto
               name="Blue Nike Shoe"

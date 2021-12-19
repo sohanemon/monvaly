@@ -22,7 +22,7 @@ const styleInObject = {
 
 function Header() {
   return (
-    <Navbar color="white" expand="md" light>
+    <Navbar expand="md" light>
       <NavbarBrand style={{ fontSize: "24px", fontWeight: "500" }} href="/">
         MonValy
       </NavbarBrand>
