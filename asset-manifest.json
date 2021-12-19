@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/monvaly/static/css/main.56e6221f.css",
-    "main.js": "/monvaly/static/js/main.cbf062e2.js",
+    "main.js": "/monvaly/static/js/main.97a34dea.js",
     "static/js/787.6804e906.chunk.js": "/monvaly/static/js/787.6804e906.chunk.js",
+    "static/media/cat1.png": "/monvaly/static/media/cat1.63d2b6bd111ab744dc34.png",
     "index.html": "/monvaly/index.html",
     "main.56e6221f.css.map": "/monvaly/static/css/main.56e6221f.css.map",
-    "main.cbf062e2.js.map": "/monvaly/static/js/main.cbf062e2.js.map",
+    "main.97a34dea.js.map": "/monvaly/static/js/main.97a34dea.js.map",
     "787.6804e906.chunk.js.map": "/monvaly/static/js/787.6804e906.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56e6221f.css",
-    "static/js/main.cbf062e2.js"
+    "static/js/main.97a34dea.js"
   ]
 }
