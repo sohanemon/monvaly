@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monvaly/static/css/main.56e6221f.css",
+    "main.js": "/monvaly/static/js/main.cbf062e2.js",
+    "static/js/787.6804e906.chunk.js": "/monvaly/static/js/787.6804e906.chunk.js",
+    "index.html": "/monvaly/index.html",
+    "main.56e6221f.css.map": "/monvaly/static/css/main.56e6221f.css.map",
+    "main.cbf062e2.js.map": "/monvaly/static/js/main.cbf062e2.js.map",
+    "787.6804e906.chunk.js.map": "/monvaly/static/js/787.6804e906.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e6221f.css",
+    "static/js/main.cbf062e2.js"
+  ]
+}
