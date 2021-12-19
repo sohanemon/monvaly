@@ -24,7 +24,7 @@ function Header() {
   return (
     <Navbar color="white" expand="md" light>
       <NavbarBrand style={{ fontSize: "24px", fontWeight: "500" }} href="/">
-        MonPANDA
+        MonValy
       </NavbarBrand>
       <NavbarToggler onClick={function noRefCheck() {}} />
       <Collapse navbar>
