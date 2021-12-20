@@ -1,18 +1,22 @@
 {
   "files": {
     "main.css": "/monvaly/static/css/main.56e6221f.css",
-    "main.js": "/monvaly/static/js/main.8e06cb47.js",
+    "main.js": "/monvaly/static/js/main.14ada4b0.js",
     "static/js/787.6804e906.chunk.js": "/monvaly/static/js/787.6804e906.chunk.js",
     "static/media/sunGlass.png": "/monvaly/static/media/sunGlass.7e5b3104ee1343b76b1f.png",
     "static/media/jack2.png": "/monvaly/static/media/jack2.cde820f2f1bbf48675a2.png",
     "static/media/apple.png": "/monvaly/static/media/apple.63d2b6bd111ab744dc34.png",
+    "static/media/github-brands.svg": "/monvaly/static/media/github-brands.e2f073269da5b56e82387b15c3b59f5a.svg",
+    "static/media/twitter-brands.svg": "/monvaly/static/media/twitter-brands.87682341d07c5f155f20c82e111fd3ae.svg",
+    "static/media/youtube-brands.svg": "/monvaly/static/media/youtube-brands.c8f52198c2edb99c514bf7c753fe5995.svg",
     "index.html": "/monvaly/index.html",
+    "static/media/facebook-brands.svg": "/monvaly/static/media/facebook-brands.033c50dd0b16de1fef2a20dfe6e465d4.svg",
     "main.56e6221f.css.map": "/monvaly/static/css/main.56e6221f.css.map",
-    "main.8e06cb47.js.map": "/monvaly/static/js/main.8e06cb47.js.map",
+    "main.14ada4b0.js.map": "/monvaly/static/js/main.14ada4b0.js.map",
     "787.6804e906.chunk.js.map": "/monvaly/static/js/787.6804e906.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56e6221f.css",
-    "static/js/main.8e06cb47.js"
+    "static/js/main.14ada4b0.js"
   ]
 }
