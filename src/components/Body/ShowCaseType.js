@@ -10,7 +10,7 @@ function GrossaryShowCase(props) {
 display: none;
 }
       `}</style>
-      <Carousel interval={3000}>
+      <Carousel interval={7000}>
         <Carousel.Item>
           <MenuSlide
             src1={props.src1}
